@@ -1,6 +1,6 @@
-# ProiectJavaMaster2025
+# ProiectJavaMaster2025 - LibraryHub
 
-## LibraryHub - Overview
+## Overview
 LibraryHub is a Spring Boot REST API that provides core functionality for managing a library system.
 The application follows a layered architecture and uses DTOs to separate API models from persistence models.
 
